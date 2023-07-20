@@ -23,7 +23,7 @@ const loop = setInterval(() => {
        mario.style.animation = 'none';
        mario.style.bottom = `${marioPosition}px`;
 
-       mario.src = './img/game-over.png'
+       mario.src = 'https://e7.pngegg.com/pngimages/346/182/png-clipart-mario-bowser-drawing-mascot-sad-puppy-sadness-cartoon.png'
        mario.style.width = '75px'
        mario.style.marginLeft = '50px'
 
